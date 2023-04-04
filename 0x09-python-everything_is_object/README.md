@@ -1,7 +1,7 @@
 0x09. Python - Everything is object
 ===================================
 
--   By Guillaume
+-   By Mykle
 
 #### In a nutshell...
 
